@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": "1700728532761",
+      "name": "ayushi",
+      "email": "ayushithakkar1210@gmail.com",
+      "password": "123",
+      "mobile": "51515165156"
+    },
+    {
+      "id": "1700728628536",
+      "name": "khushi",
+      "email": "khushi@gmail.com",
+      "password": "111",
+      "mobile": "1264852665"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "name": "ayushi",
+      "email": "ayushi@gmail.com",
+      "message": "hii"
+    }
+  ]
+}
